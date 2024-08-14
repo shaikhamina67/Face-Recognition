@@ -1,1 +1,2 @@
-# Face-Recognition-
+# Face-Recognition
+The scope of the face recognition attendance system encompasses the development of a robust software solution capable of accurately identifying individuals using facial recognition algorithms. The primary objective is to streamline the attendance tracking process, reduce manual errors, and enhance security measures within organizations. By implementing this system, organizations aim to improve efficiency, save time, and ensure accurate attendance records. 
